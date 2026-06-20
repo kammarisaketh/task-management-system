@@ -33,3 +33,4 @@ backend/.mvn/wrapper/maven-wrapper.jar
 *.sqlite
 
 backend/src/main/resources/application.propertiesnode_modules/
+backend/src/main/resources/application.properties
